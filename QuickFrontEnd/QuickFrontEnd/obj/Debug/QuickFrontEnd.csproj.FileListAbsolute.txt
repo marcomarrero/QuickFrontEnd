@@ -1,0 +1,14 @@
+C:\Marco32\QuickFrontEnd\QuickFrontEnd\bin\Debug\QuickFrontEnd.exe.config
+C:\Marco32\QuickFrontEnd\QuickFrontEnd\bin\Debug\QuickFrontEnd.exe
+C:\Marco32\QuickFrontEnd\QuickFrontEnd\bin\Debug\QuickFrontEnd.pdb
+C:\Marco32\QuickFrontEnd\QuickFrontEnd\bin\Debug\dje\QuickFrontEnd.resources.dll
+C:\Marco32\QuickFrontEnd\QuickFrontEnd\obj\Debug\QuickFrontEnd.FQ2.resources
+C:\Marco32\QuickFrontEnd\QuickFrontEnd\obj\Debug\QuickFrontEnd.FormHelp.resources
+C:\Marco32\QuickFrontEnd\QuickFrontEnd\obj\Debug\QuickFrontEnd.Properties.Resources.resources
+C:\Marco32\QuickFrontEnd\QuickFrontEnd\obj\Debug\QuickFrontEnd.FQ2.dje.resources
+C:\Marco32\QuickFrontEnd\QuickFrontEnd\obj\Debug\QuickFrontEnd.csproj.GenerateResource.Cache
+C:\Marco32\QuickFrontEnd\QuickFrontEnd\obj\Debug\dje\QuickFrontEnd.resources.dll
+C:\Marco32\QuickFrontEnd\QuickFrontEnd\obj\Debug\QuickFrontEnd.exe
+C:\Marco32\QuickFrontEnd\QuickFrontEnd\obj\Debug\QuickFrontEnd.pdb
+C:\Marco32\QuickFrontEnd\QuickFrontEnd\obj\Debug\QuickFrontEnd.csprojResolveAssemblyReference.cache
+C:\Marco32\QuickFrontEnd\QuickFrontEnd\obj\Debug\QuickFrontEnd.FormConsole.resources

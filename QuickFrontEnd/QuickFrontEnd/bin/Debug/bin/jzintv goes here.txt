@@ -1,0 +1,5 @@
+jzIntv emulator and dlls go here.
+ - jzintv.exe
+ - libwinpthread-1.dll
+ - sdl.dll
+

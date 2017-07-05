@@ -1,0 +1,6 @@
+jzIntv loads the Intellivision ROMS from here.
+ - grom.bin
+ - exec.bin
+ - ecs.bin
+ 
+Many Homebrew games work with the non-copyrighted MiniExec and MiniGROM, rename them to Exec and GROM.
